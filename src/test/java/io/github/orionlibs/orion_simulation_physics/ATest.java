@@ -1,4 +1,4 @@
-package io.github.orionlibs.project_name;
+package io.github.orionlibs.orion_simulation_physics;
 
 import java.io.IOException;
 import java.io.InputStream;
